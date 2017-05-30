@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+  <title>Rose Mattise</title>
+  <style>
+    body {
+      text-align: center;
+      background: url("http://i.imgur.com/26qhJ9t.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: serif;
+    }
+    p {
+      font-size: 20px;
+    }
+    img {
+      border: 10;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 16px;
+    }
+    input[type="submit"] {
+      background: green;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="http://i.imgur.com/H7xOXFA.jpg?4" width="200" height="220">
+  <p>Hi! I'm Rose, a MSU student who makes digital art, writes in her free time, and loves all things videogames. Say hello!</p>
+  <input type="email" placeholder="Your email">
+  <input type="submit">
+</body>
